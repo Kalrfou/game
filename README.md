@@ -77,7 +77,7 @@ To deepen learning, students can:
 
 ## Instructor Notes
 
-This project is ideal for a **2-hour lab session** where students:
+This project is ideal for a **1-hour lab session** where students:
 - Start from a basic HTML/CSS template
 - Walk through JavaScript event logic
 - Add game features incrementally
